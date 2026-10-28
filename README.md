@@ -1,1 +1,22 @@
 # TechNova-
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi primera página</title>
+</head>
+
+<body>
+
+    <h1>Hola, mundo</h1>
+
+    <p>Esta es mi primera página web.</p>
+
+    <h2>Sobre mí</h2>
+
+    <p>Estoy aprendiendo HTML y GitHub.</p>
+
+    <button>Haz clic aquí</button>
+
+</body>
+</html>
